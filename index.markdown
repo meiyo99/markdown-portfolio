@@ -11,7 +11,8 @@
       <td>
         <ul>
           <li>mayureshnaiduu@gmail.com</li>
-          <li><a href="./pages/links.md">Links</a></li>
+          <li><a href="./links.markdown">Links</a></li>
+          <li><a href="./about.markdown">Links</a></li>
         </ul>
       </td>
     </tr>
@@ -19,10 +20,9 @@
     <tr>
       <td width="50%">
         <ul>
-          <li><a href="./pages/education.md">Education</a></li>
-          <li><a href="./pages/experience.md">Experience</a></li>
-          <li><a href="./pages/projects.md">Projects</a></li>
-          <li><a href="./pages/qualifications.md">Skills & Qualifications</a></li>
+          <li><a href="./education.markdown">Education</a></li>
+          <li><a href="./experience.markdown">Experience</a></li>
+          <li><a href="./skills.markdown">Skills & Qualifications</a></li>
         </ul>
       </td>
     </tr>
