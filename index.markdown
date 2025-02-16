@@ -1,5 +1,5 @@
-<h1 align="center">Mayuresh Naidu</h1>
-<table>
+<!-- <h1 align="center">Mayuresh Naidu</h1> -->
+<!-- <table>
   <tbody>
     <tr>
       <td><b>Information</b></td>
@@ -26,7 +26,21 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
+
+![profile-image](./assets/portfolio-img.jpg)
+
+# Hey! I'm Mayuresh 👋
+### I am a Web Developer with a degree in Computer Science. I design innovative and impactful digital experiences that help people thrive.  
+
+> ### Information
+* [About Me](./about.markdown)
+* [Links](./links.markdown)
+
+> ### Showcase
+* [Education](./education.markdown)
+* [Experience](./experience.markdown)
+* [Skills](./skills.markdown)
 
 
 
