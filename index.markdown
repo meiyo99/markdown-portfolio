@@ -11,7 +11,7 @@
       <td>
         <ul>
           <li>mayureshnaiduu@gmail.com</li>
-          <li><a href="./links.markdown">Links</a></li>
+          <li><a href="/links.markdown">Links</a></li>
         </ul>
       </td>
     </tr>
