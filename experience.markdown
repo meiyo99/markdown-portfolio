@@ -14,7 +14,6 @@
     </td>
     <td><image alt="Take5 Digital" src="./assets/take5.png"/></td>
   </tr>
-  </tr>
   <tr>
     <td>
       <b>Software Engineer</b> | September 2022 - September 2023<br />
