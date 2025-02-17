@@ -1,6 +1,6 @@
 >[Back to main page](./index.markdown)
 
-<h1 align="center">Experience</h1>
+# Experience
 <table>
   <tr>
     <td width="80%">

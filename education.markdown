@@ -1,6 +1,6 @@
 [Back to main page](./index.markdown)
 
-<h1 align="center">Education</h1>
+# Education
 <table>
   <tr>
     <td width="80%">
