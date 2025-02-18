@@ -1,11 +1,10 @@
 >[Back to main page](./index.markdown)
 
-# About Me
-Originally from India, I am now based in **Ontario, Canada**. I pursued a degree in Computer engineering to understand better how computers work. I later joined an IT company to learn how things are built online. Eventually, I transitioned to working at the intersection of design and engineering, following my passion. I later realized design was my true calling, which led me to focus on UX and UI to merge creativity with technology.
+As a post-graduate student with a bachelor’s degree in computer science, my journey into the world of programming and design has been anything but conventional. During my undergraduate studies, I found myself disengaged from programming, despite the technical foundation I was building. It wasn’t until I discovered UX design that I truly felt a spark of passion for creating meaningful digital experiences. I began teaching myself UX principles and methodologies, which eventually led me to my first role as a UX Designer/Developer. In this role, I had the opportunity to design intuitive interfaces and witness them come to life through code, sparking a newfound appreciation for the synergy between design and development.
 
-I excel at creating digital solutions by leveraging cutting-edge technologies, frameworks, and methodologies to develop human-centered designs. My expertise lies in conducting user research, designing intuitive interfaces, and turning product ideas into engaging, interactive prototypes.
+This experience inspired me to revisit programming with a fresh perspective and a deeper sense of purpose. Determined to expand my skill set and bring my ideas to life independently, I enrolled in the Web Development program at **Humber Polytechnic**. Since then, programming has become more than just a career path—it’s a passion and a hobby that I eagerly pursue. I’ve developed a strong appreciation for problem-solving, attention to detail, and the ability to adapt to new technologies—qualities I believe are essential for any software engineer.
 
-Design empowers me to express the change I want to see in the world — and work with people and teams attempting to do the same.
+Today, I am driven by the desire to create seamless, user-centered applications that not only function flawlessly but also deliver exceptional experiences. My unique background in both design and development allows me to approach challenges with a holistic mindset, ensuring that every project I work on is both technically robust and visually compelling. I am excited to continue growing as a developer, contributing to innovative projects, and collaborating with teams that value creativity, curiosity, and a commitment to excellence.
 
 ---
 
